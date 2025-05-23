@@ -43,7 +43,7 @@ The aim of this project is to empower decision-makers with a clear and interacti
 
 Here’s a snapshot of the final interactive Power BI dashboard:
 
-![Final Dashboard](assets/final dashboard.png)
+![Final Dashboard](assets/final_dashboard.png)
 
 > *Note: Replace `assets/final-dashboard.png` with the actual path to your image.*
 
